@@ -5,6 +5,6 @@
    * [Methodology](methodology.md)
 * Modules
    * [Technologies](technologies.md)
-       * [Readiness](readiness.md)
        * What is a Technology
+       * [Readiness](readiness.md)
 

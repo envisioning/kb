@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [What is TDB?](chapter1.md)
-   * Methodology
+   * [Methodology](methodology.md)
 

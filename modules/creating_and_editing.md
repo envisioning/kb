@@ -15,30 +15,39 @@ We follow some rules and style guide for creating and editing technologies.
 
 ## Title
 
+<table>
+    <tr>
+        <td>
+            <ol>
+                <li>Summarize technology in one to five words </li>
+                <li>Good titles explain what sets the technology apart</li>
+                <li>Use "Title Case".</li>
+                <li>Capitalize All Important Words</li>
+                <li> Avoid plural titles. </li>
+                <li> “Solar Panels", “Self-driving Vehicles" </li>
+                <li> Avoid empty words.</li>
+                <li>“Smart Car", "Next-gen Keychain", "Health 3.0"</li>
+                <li>Avoid product names.</li>
+                <li>“Powerwall" → "Wall-mounted Household Battery" </li>
+                <li>Titles can be either: </li>
+                <li>Scientific ("802.11ad")</li>
+                <li>Technical ("Wi-Fi") </li>
+                <li>Popular ("Wireless Networking")</li>
+            </ol>
+        </td>
+        <td>
+            **Example** * Virtual Reality Headset * Personal Transportation Device * Aerial Wireless Network * Gesture Control Wearables
+        </td>
+    </tr>
+</table>
+
+
 ![](Screen Shot 2016-05-20 at 4.18.04 PM.png)
 
 
-1. Summarize technology in one to five words
-2. Good titles explain what sets the technology apart
-3. Use "Title Case". 
-4. Capitalize All Important Words
-5. Avoid plural titles. 
-  6. “Solar Panels", “Self-driving Vehicles"
-7. Avoid empty words. 
-  8. “Smart Car", "Next-gen Keychain", "Health 3.0"
-8. Avoid product names. 
-  9. “Powerwall" → "Wall-mounted Household Battery"
-9. Titles can be either:
-  10. Scientific ("802.11ad")
-  11. Technical ("Wi-Fi")
-  12. Popular ("Wireless Networking")
 
-**Example**
 
-* Virtual Reality Headset
-* Personal Transportation Device
-* Aerial Wireless Network
-* Gesture Control Wearables
+
 
 ---
 

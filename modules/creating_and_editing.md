@@ -15,6 +15,8 @@ We follow some rules and style guide for creating and editing technologies.
 
 ## Title
 
+![](Screen Shot 2016-05-20 at 4.18.04 PM.png)
+
 <table>
     <tr>
         <th>Title</th>
@@ -56,15 +58,6 @@ We follow some rules and style guide for creating and editing technologies.
         </td>
     </tr>
 </table>
-
-
-
-![](Screen Shot 2016-05-20 at 4.18.04 PM.png)
-
-
-
-
-
 
 ---
 

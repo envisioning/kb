@@ -7,8 +7,8 @@
        * [How it works?](readiness/how_it_works.md)
 * [Getting Started](getting_started/getting_started.md)
    * Accessing & Credentials
-   * [Basic Concepts](getting_started/basic_concepts.md)
-       * Accessing & Credentials
+* [Basic Concepts](getting_started/basic_concepts.md)
+   * Accessing & Credentials
 * [Modules](modules.md)
    * [Technology](modules/technology.md)
        * [Creating and Editing](modules/creating_and_editing.md)

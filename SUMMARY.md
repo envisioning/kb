@@ -6,7 +6,7 @@
        * [Methodology](methodology.md)
    * TDB 101
        * [Why are we building this?](why_are_we_building_this.md)
-       * Where are we?
+       * [Where are we?](where_are_we.md)
        * Where we're headed
 * Getting Started
 

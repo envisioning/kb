@@ -1,4 +1,5 @@
 # How it works?
+![](readiness03.png)
 
 Ten vectors are measured. Technologies are  scored on growth along each vector. Point Scores are attributed on a human-readable scale
 
@@ -15,8 +16,9 @@ Ten vectors are measured. Technologies are  scored on growth along each vector. 
 
 ## Mathematical Model
 
+![](readiness04.png)
+
 Point Scores are combined into a Final Score. Final Score is calculated as the harmonic mean of Point Scores. Harmonic mean is the preferable method for averaging ranges. Final Score indicates overall readiness in thresholds. 
 
-![](readiness03.png)
 
 

@@ -14,6 +14,7 @@
        * [Creating and Editing](modules/creating_and_editing.md)
    * Attachments
    * Projects
+       * Technology Stash
    * Organizations
    * Users
        * Roles

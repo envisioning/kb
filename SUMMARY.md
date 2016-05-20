@@ -9,6 +9,7 @@
    * [Why are we building this?](why_are_we_building_this.md)
    * [Where are we?](where_are_we.md)
    * [Where we're headed](where_were_headed.md)
+   * Getting Started
 * [Modules](modules.md)
    * [Technology](modules/technology.md)
        * [Creating and Editing](modules/creating_and_editing.md)

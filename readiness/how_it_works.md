@@ -1,7 +1,9 @@
 # How it works?
-![](readiness03.png)
+![](readiness02.jpg)
 
 Ten vectors are measured. Technologies are  scored on growth along each vector. Point Scores are attributed on a human-readable scale
+
+![](readiness03.png)
 
 1. **Feasibility**: Is the technology scientifically viable?
 2. **Demonstrability**: Has it been demonstrated to work?

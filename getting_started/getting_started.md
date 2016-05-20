@@ -4,26 +4,22 @@
 
 The project started as a way to streamline our research process. An unpleasing amount of work was done every time we started a new research. That is because we didn't have an appropriate tool to manage database that fit our workflow. We've been through it all: Trello, Basecamp, Spreadsheets, you name it…
 
-## Current state
+### Current state
 
-At the moment of this release (v0.8-Closed Beta), TDB primarily serves as a tool for Envisioning' projects. It is being developed with our research workflow and needs in mind.
+At the moment of this release (v0.8-Closed Beta), TDB primarily serves as a tool for Envisioning' projects. It was developed with our research workflow and needs in mind.
 
-* Easy collection / reorganization and manipulation of data
+* Easy collection of technologies and assets
+* Easy manipulation of data
 * Easy export for Godzilla
 
-[Internal tool for research project]
-[External Collaborators]
-[External Viewers]
-[JSON Export for Godzilla]
+## Where we're headed
 
+Our long term goal is to create an open hub to discuss emerging technologies. A global platform that connects all parties involved with the subject. We want to move from an *internal tool* to an *open platform*. This is nowhere present in the platform as is, but is in our roadmap.
 
+If you have any thoughts about this, [drop us a line](mailto:as@envisioning.io).
 
-## Access
+---
+
+## Closed beta
 
 If you have subscribed for the closed beta, you've received an e-mail with an URL to complete your signup process. Check your Spam box or search for `hello@envisioning.io`. If you still haven't gotten it or haven't subscribed to the beta, [get in touch](mailto:as@envisioning.io).
-
-**Accessing TDB**
-
-![](Screen Shot 2016-05-20 at 4.44.59 PM.png)
-
-Head over to: [https://tdb.envisioning.io](https://tdb.envisioning.io). That is our production instance of TDB. 

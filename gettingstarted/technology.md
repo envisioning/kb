@@ -33,3 +33,14 @@
 * Personal Transportation Device
 * Aerial Wireless Network
 * Gesture Control Wearables
+
+### Images
+
+1. Use images that are descriptive & noteworthy
+1. Use HD images 
+  1. Minimal resolution is 800x600px
+2. Show action or engagement where possible
+3. Photographs > Illustrations
+4. Concept renderings are OK
+
+

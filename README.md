@@ -6,12 +6,14 @@ In this document we will talk about its current features and roadmap. At its cur
 
 Our intent with TDB is to create a global and open service that will act as common ground for technology discussion.
 
-## Who is responsible for this?
+---
+
+## Project Lead
+
 Arthur Soares ([email](mailto:as@envisioning.io) or slack: @arthursoares) for more information.
 
-## Credits
+## Other people
 
-* Arthur Soares
 * Lucas Motta
 * Michell Zappa
 * Rafael Ribeiro

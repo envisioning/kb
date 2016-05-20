@@ -12,6 +12,7 @@
 * [Modules](modules.md)
    * [Technology](modules/technology.md)
        * [Creating and Editing](modules/creating_and_editing.md)
+   * Attachments
 * Business Model
 * Development & Build Info
    * Release Notes

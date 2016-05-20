@@ -6,6 +6,7 @@
    * [Readiness](readiness/readiness.md)
        * [How it works?](readiness/how_it_works.md)
 * [Getting Started](getting_started/getting_started.md)
+   * Accessing & Credentials
    * [Basic Concepts](getting_started/basic_concepts.md)
        * Accessing & Credentials
 * [Modules](modules.md)

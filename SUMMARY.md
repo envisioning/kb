@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Envisioning
+   * [Envisioning](envisioning.md)
        * [What is Envisioning?](what_is_envisioning.md)
        * [Methodology](methodology.md)
    * TDB 101

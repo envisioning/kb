@@ -15,6 +15,7 @@
    * Attachments
    * Projects
        * Technology Stash
+       * Collections
    * Organizations
    * Users
        * Roles

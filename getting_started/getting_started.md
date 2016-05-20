@@ -17,9 +17,3 @@ At the moment of this release (v0.8-Closed Beta), TDB primarily serves as a tool
 Our long term goal is to create an open hub to discuss emerging technologies. A global platform that connects all parties involved with the subject. We want to move from an *internal tool* to an *open platform*. This is nowhere present in the platform as is, but is in our roadmap.
 
 If you have any thoughts about this, [drop us a line](mailto:as@envisioning.io).
-
----
-
-## Closed beta
-
-If you have subscribed for the closed beta, you've received an e-mail with an URL to complete your signup process. Check your Spam box or search for `hello@envisioning.io`. If you still haven't gotten it or haven't subscribed to the beta, [get in touch](mailto:as@envisioning.io).

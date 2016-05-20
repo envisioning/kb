@@ -16,4 +16,5 @@
 * Development & Build Info
    * Release Notes
    * Roadmap
+   * Development info
 

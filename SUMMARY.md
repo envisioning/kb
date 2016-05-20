@@ -2,4 +2,5 @@
 
 * [Introduction](README.md)
    * Envisioning
+* Getting Started
 

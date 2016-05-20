@@ -8,7 +8,6 @@
 *  Use the Keywords to find main companies, startups or researchers working with the technology and look for native content (.edu, .org are the best) 
 * Find commentary about the techs in journalistic articles (to grasp a sense of what the public outlook on the tech is)
 
----
 ## Style guide
 
 ### Title

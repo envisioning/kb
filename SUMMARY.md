@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Envisioning](envisioning/envisioning.md)
-   * [Why technology?](methodology.md)
+   * [Why technology?](envisioning/why_tech.md)
    * [Readiness](readiness/readiness.md)
        * [How it works?](readiness/how_it_works.md)
 * TDB 101

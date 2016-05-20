@@ -8,6 +8,7 @@
 * [Getting Started](getting_started/getting_started.md)
    * [Basic Concepts](getting_started/basic_concepts.md)
    * [Accessing & Credentials](getting_started/accessing_&_credentials.md)
+   * What we want from you
 * [Modules](modules.md)
    * [Technology](modules/technology.md)
        * [Creating and Editing](modules/creating_and_editing.md)

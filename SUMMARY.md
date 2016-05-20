@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [Envisioning](envisioning.md)
        * [Why technology?](methodology.md)
-       * Readiness
+       * [Readiness](readiness.md)
    * TDB 101
        * [Why are we building this?](why_are_we_building_this.md)
        * [Where are we?](where_are_we.md)

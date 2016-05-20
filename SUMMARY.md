@@ -13,7 +13,7 @@
    * [Technology](modules/technology.md)
        * [Creating and Editing](modules/creating_and_editing.md)
 * Business Model
-* Release Notes & Roadmap
+* Development & Build Info
    * Release Notes
    * Roadmap
 

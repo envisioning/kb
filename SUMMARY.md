@@ -11,7 +11,6 @@
    * [Where we're headed](where_were_headed.md)
 * [Getting Started](getting_started.md)
    * Key Concepts
-       * [Technology](gettingstarted/technology.md)
 * [Modules](modules.md)
    * [Technology](modules/technology.md)
 

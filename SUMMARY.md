@@ -14,6 +14,7 @@
        * [Creating and Editing](modules/creating_and_editing.md)
    * Attachments
    * Projects
+   * Organizations
 * Business Model
 * Development & Build Info
    * Release Notes

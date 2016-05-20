@@ -9,3 +9,4 @@ TDB has 5 main object types that can be related to on another.
 4. Attachments
 5. Users
 
+Each of them will be explained thoroughly in the next session.

@@ -18,9 +18,11 @@
 3. Use "Title Case". 
 4. Capitalize All Important Words
 5. Avoid plural titles. 
-6. “Solar Panels", “Self-driving Vehicles"
-7. Avoid empty words. *“Smart Car", "Next-gen Keychain", "Health 3.0"*
-8. Avoid product names. *“Powerwall" → "Wall-mounted Household Battery"*
+  6. “Solar Panels", “Self-driving Vehicles"
+7. Avoid empty words. 
+  8. “Smart Car", "Next-gen Keychain", "Health 3.0"
+8. Avoid product names. 
+  9. “Powerwall" → "Wall-mounted Household Battery"
 9. Titles can be either:
   10. Scientific ("802.11ad")
   11. Technical ("Wi-Fi")

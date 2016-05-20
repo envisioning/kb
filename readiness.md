@@ -31,3 +31,6 @@ Readiness is a model for estimating the state of emerging technologies. It measu
 * Decision-making for technology transitions
 * Risk management
 
+---
+
+

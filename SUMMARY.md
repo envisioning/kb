@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
    * [Envisioning](envisioning.md)
-       * [What is Envisioning?](what_is_envisioning.md)
        * [Methodology](methodology.md)
    * TDB 101
        * [Why are we building this?](why_are_we_building_this.md)

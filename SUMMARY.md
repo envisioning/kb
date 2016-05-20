@@ -16,6 +16,7 @@
    * Projects
    * Organizations
    * Users
+       * Roles
 * Business Model
 * Development & Build Info
    * Release Notes

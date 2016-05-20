@@ -28,22 +28,35 @@ We follow some rules and style guide for creating and editing technologies.
                 <li>Use "Title Case".</li>
                 <li>Capitalize All Important Words</li>
                 <li> Avoid plural titles. </li>
-                <ol><li> “Solar Panels", “Self-driving Vehicles" </li></ol>
+                <ol>
+                    <li> “Solar Panels", “Self-driving Vehicles" </li>
+                </ol>
                 <li> Avoid empty words.</li>
-                <ol><li>“Smart Car", "Next-gen Keychain", "Health 3.0"</li></ol>
+                <ol>
+                    <li>“Smart Car", "Next-gen Keychain", "Health 3.0"</li>
+                </ol>
                 <li>Avoid product names.</li>
-                <ol><li>“Powerwall" → "Wall-mounted Household Battery" </li></ol>
+                <ol>
+                    <li>“Powerwall" → "Wall-mounted Household Battery" </li>
+                </ol>
                 <li>Titles can be either: </li>
-                <ol><li>Scientific ("802.11ad")</li>
-                                <li>Technical ("Wi-Fi") </li>
-                                <li>Popular ("Wireless Networking")</li></ol>
+                <ol>
+                    <li>Scientific ("802.11ad")</li>
+                    <li>Technical ("Wi-Fi") </li>
+                    <li>Popular ("Wireless Networking")</li>
+                </ol>
             </ol>
         </td>
         <td>
-            **Example** * Virtual Reality Headset * Personal Transportation Device * Aerial Wireless Network * Gesture Control Wearables
+            <ol>
+                <li>Virtual Reality Headset</li>
+                <li>Personal Transportation Device</li>
+                <li>Aerial Wireless Network</li>
+                <li>Gesture Control Wearables</li>
         </td>
     </tr>
 </table>
+
 
 
 ![](Screen Shot 2016-05-20 at 4.18.04 PM.png)

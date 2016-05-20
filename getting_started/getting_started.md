@@ -6,11 +6,10 @@ The project started as a way to streamline our research process. An unpleasing a
 
 ## Current state
 
-At the moment of this release (v0.8-Closed Beta) 
+At the moment of this release (v0.8-Closed Beta), TDB primarily serves as a tool for Envisioning' projects. It is being developed with our research workflow and needs in mind.
 
-[Easy collection / reorganization and manipulation of data]
-[Create a tool that suits Envisioning’s workflow]
-[Export data for Viz]
+* Easy collection / reorganization and manipulation of data
+* Easy export for Godzilla
 
 [Internal tool for research project]
 [External Collaborators]

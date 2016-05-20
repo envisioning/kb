@@ -17,6 +17,10 @@ We follow some rules and style guide for creating and editing technologies.
 
 <table>
     <tr>
+        <th>Title</th>
+        <th>Example</th>
+    </tr>
+    <tr>
         <td>
             <ol>
                 <li>Summarize technology in one to five words </li>
@@ -24,15 +28,15 @@ We follow some rules and style guide for creating and editing technologies.
                 <li>Use "Title Case".</li>
                 <li>Capitalize All Important Words</li>
                 <li> Avoid plural titles. </li>
-                <li> “Solar Panels", “Self-driving Vehicles" </li>
+                <ol><li> “Solar Panels", “Self-driving Vehicles" </li></ol>
                 <li> Avoid empty words.</li>
-                <li>“Smart Car", "Next-gen Keychain", "Health 3.0"</li>
+                <ol><li>“Smart Car", "Next-gen Keychain", "Health 3.0"</li></ol>
                 <li>Avoid product names.</li>
-                <li>“Powerwall" → "Wall-mounted Household Battery" </li>
+                <ol><li>“Powerwall" → "Wall-mounted Household Battery" </li></ol>
                 <li>Titles can be either: </li>
-                <li>Scientific ("802.11ad")</li>
-                <li>Technical ("Wi-Fi") </li>
-                <li>Popular ("Wireless Networking")</li>
+                <ol><li>Scientific ("802.11ad")</li>
+                                <li>Technical ("Wi-Fi") </li>
+                                <li>Popular ("Wireless Networking")</li></ol>
             </ol>
         </td>
         <td>

@@ -2,8 +2,20 @@
 
 ## Why are we building this?
 
-The project started as a way to streamline our research process. A lot of extra work was taking place because we didn't have an appropriate tool to manage technologies that fit our workflow. We've been through it all: Trello, Basecamp, Spreadsheets, you name it…
+The project started as a way to streamline our research process. An unpleasing amount of work was done every time we started a new research. That is because we didn't have an appropriate tool to manage database that fit our workflow. We've been through it all: Trello, Basecamp, Spreadsheets, you name it…
 
+## Current state
+
+At the moment of this release (v0.8-Closed Beta) 
+
+[Easy collection / reorganization and manipulation of data]
+[Create a tool that suits Envisioning’s workflow]
+[Export data for Viz]
+
+[Internal tool for research project]
+[External Collaborators]
+[External Viewers]
+[JSON Export for Godzilla]
 
 
 

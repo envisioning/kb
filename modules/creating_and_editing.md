@@ -18,10 +18,10 @@ We follow some rules and style guide for creating and editing technologies.
 ![](Screen Shot 2016-05-20 at 4.18.04 PM.png)
 
 <table>
-    <tr>
+    <thead>
         <th>Title</th>
         <th>Example</th>
-    </tr>
+    </thead>
     <tr>
         <td>
             <ol>
@@ -31,7 +31,7 @@ We follow some rules and style guide for creating and editing technologies.
                 <li>Capitalize All Important Words</li>
                 <li> Avoid plural titles. </li>
                 <ol>
-                    <li> “Solar Panels", “Self-driving Vehicles" </li>
+                    <li>“Solar Panels", “Self-driving Vehicles"</li>
                 </ol>
                 <li> Avoid empty words.</li>
                 <ol>

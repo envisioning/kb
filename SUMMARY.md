@@ -15,6 +15,7 @@
    * Attachments
    * Projects
    * Organizations
+   * Users
 * Business Model
 * Development & Build Info
    * Release Notes

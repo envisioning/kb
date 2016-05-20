@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Envisioning](envisioning.md)
+* [Envisioning](envisioning/envisioning.md)
    * [Why technology?](methodology.md)
    * [Readiness](readiness/readiness.md)
        * [How it works?](readiness/how_it_works.md)

@@ -28,3 +28,9 @@
   11. Technical ("Wi-Fi")
   12. Popular ("Wireless Networking")
 
+#### Examples
+
+* Virtual Reality Headset
+* Personal Transportation Device
+* Aerial Wireless Network
+* Gesture Control Wearables

@@ -4,7 +4,7 @@
 
 We follow some rules and style guide for creating and editing technologies.
 
-## Isolating technologies from Products/Startups 
+**Isolating technologies from Products/Startups **
 
 * Look for possible  keywords connected to the technology/ technologies in the description
   * SpaceX -> Reusable Rocket, Autonomous Spaceport Drone Ship

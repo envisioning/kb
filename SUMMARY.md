@@ -14,4 +14,5 @@
        * [Creating and Editing](modules/creating_and_editing.md)
 * Business Model
 * Release Notes & Roadmap
+   * Release Notes
 

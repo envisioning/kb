@@ -3,7 +3,7 @@
 * [Envisioning](README.md)
   * Getting started
 * [Methodology](2_methodology/index.md)
-  * [Why technology?](2_methodology/why_tech.md)
+  * [Technology 101](2_methodology/why_tech.md)
   * [Readiness](2_methodology/readiness/readiness.md)
     * [How it works?](2_methodology/readiness/how_it_works.md)
 * [TDB](3_tdb/TDB.md)

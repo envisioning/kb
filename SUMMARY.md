@@ -1,5 +1,6 @@
 # Summary
 
+* Welcome
 * [Envisioning](envisioning/envisioning.md)
    * [Why technology?](envisioning/why_tech.md)
    * [Readiness](readiness/readiness.md)
@@ -24,5 +25,4 @@
    * Release Notes
    * Roadmap
    * Development info
-* Welcome
 

@@ -1,10 +1,10 @@
 # Summary
 
-* Welcome
 * [Envisioning](envisioning/envisioning.md)
    * [Why technology?](envisioning/why_tech.md)
    * [Readiness](readiness/readiness.md)
        * [How it works?](readiness/how_it_works.md)
+* Welcome
 * [TDB: 101](README.md)
 * [Getting Started](getting_started/getting_started.md)
    * [Basic Concepts](getting_started/basic_concepts.md)

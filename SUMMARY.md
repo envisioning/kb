@@ -4,6 +4,7 @@
    * [Why technology?](envisioning/why_tech.md)
    * [Readiness](readiness/readiness.md)
        * [How it works?](readiness/how_it_works.md)
+* [TDB: 101](README.md)
 * [Getting Started](getting_started/getting_started.md)
    * [Basic Concepts](getting_started/basic_concepts.md)
    * [Accessing & Credentials](getting_started/accessing_&_credentials.md)
@@ -18,7 +19,6 @@
    * Organizations
    * Users
        * Roles
-* [TDB: 101](README.md)
 * Business Model
 * Development & Build Info
    * Release Notes

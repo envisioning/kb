@@ -1,6 +1,5 @@
 # Summary
 
-* [TDB: 101](README.md)
 * [Envisioning](envisioning/envisioning.md)
    * [Why technology?](envisioning/why_tech.md)
    * [Readiness](readiness/readiness.md)
@@ -19,6 +18,7 @@
    * Organizations
    * Users
        * Roles
+* [TDB: 101](README.md)
 * Business Model
 * Development & Build Info
    * Release Notes

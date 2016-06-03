@@ -11,4 +11,4 @@ Our intent with TDB is to create a global and open service that will act as comm
 **People**
 
 * **Arthur Soares**, Project Lead. [E-mail](mailto:as@envisioning.io) or @arthursoares (slack) for more information.
-* **Lucas Motta** & **Rafael Ribeiro**, Front-end & back-end developers.
+* **Lucas Munhoz** & **Rafael Ribeiro**, Front-end & back-end developers.

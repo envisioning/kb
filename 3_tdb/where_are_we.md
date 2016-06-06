@@ -1,2 +1,0 @@
-# Where are we?
-

@@ -1,0 +1,23 @@
+{
+  "name": "envisioning-kb",
+  "version": "1.0.0",
+  "description": "Envisioning's Knowledge bsae package. Built with Raneto",
+  "main": "config.default.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Arthur Soares <as@envisioning.io>",
+  "license": "ISC",
+  "dependencies": {
+    "raneto": "0.7.1",
+    "debug" : "2.2.0",
+    "bootstrap" : "*",
+    "fitvids" : "*",
+    "highlightjs" : "*",
+    "jquery" : "*",
+    "masonry-layout" : "*",
+    "sweetalert" : "*",
+    "jquery.backstretch" : "*"
+  }
+}

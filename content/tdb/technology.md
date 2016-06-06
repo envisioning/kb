@@ -7,7 +7,7 @@ Description:
 1. [Taxonomy](#taxonomy)
 2. [Creating and Editing](#creating-and-editing)
 
-![Dashboard](Screen-Shot-2016-05-20-at-4.59.05-PM.jpg)
+![Dashboard](%image_url%/Screen-Shot-2016-05-20-at-4.59.05-PM.jpg)
 
 
 ---
@@ -75,7 +75,7 @@ Technologies have three status regarding the entry state. Technologies can be **
 ## Creating and Editing
 
 
-<img src="Screen Shot 2016-05-20 at 4.15.03 PM.png" align="left" height="400" width="400" >
+<img src="%image_url%/Screen Shot 2016-05-20 at 4.15.03 PM.png" align="left" height="400" width="400" >
 
 
 We follow some rules and style guide for creating and editing technologies.

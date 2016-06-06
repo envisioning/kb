@@ -21,7 +21,7 @@ Access TDB at [https://tdb.envisioning.io](https://tdb.envisioning.io).
 
 ## Basic Concepts
 
-![](objects_and_data.png)
+![](%image_url%/objects_and_data.png)
 TDB has 5 main object types that can be related to on another.
 
 1. Technologies

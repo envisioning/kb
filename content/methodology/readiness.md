@@ -1,9 +1,4 @@
-/*
-Title: Readiness
-Description: Envisioning's Knowledge base
-*/
-
-![](readiness01.jpeg)
+![](%image_url%/readiness01.jpeg)
 
 Readiness is a model for estimating the state of emerging technologies. It measures how close an idea is to reality. Most technologies evolve along certain vectors over time, like acquiring usefulness and receiving investment. By determining common vectors of evolution, technologies can be compared. Readiness models an imaginary line between science fiction and science fact.
 
@@ -40,11 +35,11 @@ Readiness is a model for estimating the state of emerging technologies. It measu
 
 
 # How it works?
-![](readiness02.jpg)
+![](%image_url%/readiness02.jpg)
 
 Ten vectors are measured. Technologies are  scored on growth along each vector. Point Scores are attributed on a human-readable scale
 
-![](readiness03.png)
+![](%image_url%/readiness03.png)
 
 1. **Feasibility**: Is the technology scientifically viable?
 2. **Demonstrability**: Has it been demonstrated to work?
@@ -59,9 +54,6 @@ Ten vectors are measured. Technologies are  scored on growth along each vector. 
 
 ## Mathematical Model
 
-![](readiness04.png)
+![](%image_url%/readiness04.png)
 
-Point Scores are combined into a Final Score. Final Score is calculated as the harmonic mean of Point Scores. Harmonic mean is the preferable method for averaging ranges. Final Score indicates overall readiness in thresholds. 
-
-
-
+Point Scores are combined into a Final Score. Final Score is calculated as the harmonic mean of Point Scores. Harmonic mean is the preferable method for averaging ranges. Final Score indicates overall readiness in thresholds.

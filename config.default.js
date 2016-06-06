@@ -47,13 +47,13 @@ var config = {
   analytics: '',
 
   // Set to true to enable the web editor
-  allow_editing : false,
+  allow_editing : true,
 
   // Set to true to enable HTTP Basic Authentication
-  authentication : false,
+  authentication : true,
   credentials    : {
     username : 'admin',
-    password : 'password'
+    password : 'envisioning1234'
   },
 
   locale: 'en',

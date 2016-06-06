@@ -11,13 +11,16 @@
   "license": "ISC",
   "dependencies": {
     "raneto": "0.7.1",
-    "debug" : "2.2.0",
-    "bootstrap" : "*",
-    "fitvids" : "*",
-    "highlightjs" : "*",
-    "jquery" : "*",
-    "masonry-layout" : "*",
-    "sweetalert" : "*",
-    "jquery.backstretch" : "*"
+    "debug": "2.2.0",
+    "bootstrap": "*",
+    "fitvids": "*",
+    "highlightjs": "*",
+    "jquery": "*",
+    "masonry-layout": "*",
+    "sweetalert": "*",
+    "jquery.backstretch": "*"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }

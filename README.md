@@ -11,6 +11,7 @@ It is running under Raneto (NodeJS)
 5. Install `grunt` via node: `npm install --global gulp-cli`
 6. Browse to the project dir and do `npm install`
 7. Start the server by running `npm start`
+8. Your server is running at `http://localhost:3000/`
 
 ## Adding content
 

@@ -2,6 +2,7 @@
 Category: TDB - Modules
 Title: Technologies
 Description: Getting started with TDB
+Sort: 3
 */
 
 
@@ -13,6 +14,7 @@ Description: Getting started with TDB
             <ol>
                 <li>[Taxonomy](#taxonomy)</li>
                 <li>[Creating and Editing](#creating-and-editing)</li>
+                <li>[Revision Status](#revision-status)</li>
             </ol>
         </td>
     </thead>
@@ -21,7 +23,6 @@ Description: Getting started with TDB
 
 
 ## Taxonomy
-
 
 <table>
     <thead>
@@ -59,36 +60,33 @@ Description: Getting started with TDB
         <th>Images</th>
         <td>Images that describe a technology in the card</td>
         <td>
-        <ul>
-            <li>Use images that are descriptive and noteworthy</li>
-            <li>Use high-res images </li>
-            <li>Show action or engagement where possible</li>
-            <li>Photographs > Illustrations</li>
-            <li>Concept renderings are OK</li>
-        </ul>
+            <ul>
+                <li>Use images that are descriptive and noteworthy</li>
+                <li>Use high-res images </li>
+                <li>Show action or engagement where possible</li>
+                <li>Photographs > Illustrations</li>
+                <li>Concept renderings are OK</li>
+            </ul>
+        </td>
     </tr>
     <tr>
         <th>Status</th>
         <td>Technologies have three status regarding the entry state.</td>
         <td>
-        <ul>
-            <li>**Any user** can create a new technology.</li>
-            <li>Only **Editors** and **Admins** can change a technology' status from **Draft** to **Under Review** or **Published**.</li>
-            <li> Only **Published** technologies are exported to Godzilla / Projects.</li>
-        </ul>
+            <ul>
+                <li>**Any user** can create a new technology.</li>
+                <li>Only **Editors** and **Admins** can change a technology' status from **Draft** to **Under Review** or **Published**.</li>
+                <li> Only **Published** technologies are exported to Godzilla / Projects.</li>
+            </ul>
+        </td>
     </tr>
     <tr>
-        <th>Status</th>
-        <td>Technologies have three status regarding the entry state.</td>
-        <td>
-        <ul>
-            <li>**Any user** can create a new technology.</li>
-            <li>Only **Editors** and **Admins** can change a technology' status from **Draft** to **Under Review** or **Published**.</li>
-            <li> Only **Published** technologies are exported to Godzilla / Projects.</li>
-        </ul>
+        <th>Tags</th>
+        <td>Used to correlate and create taxonomy</td>
+        <td></td>
+        
     </tr>
 </table>
-
 
 ## Creating and Editing
 
@@ -105,5 +103,35 @@ We follow some rules and style guide for creating and editing technologies.
 *  Use the Keywords to find main companies, startups or researchers working with the technology and look for native content (.edu, .org are the best) 
 * Find commentary about the techs in journalistic articles (to grasp a sense of what the public outlook on the tech is)
 
----
+## Revision Status
 
+Technologies follow a three stage status progression. The status is not related to the quality of the technology per se, but to the quality of the entry in TDB. Only technologies that are in the `Published` state are available for output to Godzilla, Futurekit, etc…
+
+Technologies are first created as `Drafts`, which have no restrictions nor validation process. Regular `users` can create technologies, but only Editors & Admins can promote them to `Review` or `Published`.
+
+### Descriptions
+
+The same apply to descriptions. They have two status: `Draft` & `Published`. This allows to have a working description while another one is being developed. Only `Editors` & `Admins` can promote them to `Published`.
+
+<table>
+    <thead>
+        <th width="15%">Status</th>
+        <th width="25%">User Permission</th>
+        <th>Validation</th>
+    </thead>
+    <tr>
+        <th>Draft</th>
+        <td>Users, Editors & Admins</td>
+        <td>Only needs a Title</td>
+    </tr>
+    <tr>
+        <th>Under Review</th>
+        <td>Editors & Admins</td>
+        <td>Title, image, 01 tag at least & Description</td>
+    </tr>
+    <tr>
+        <th>Published</th>
+        <td>Editors & Admins</td>
+        <td>All fields filled & Pubilshed Description</td>
+    </tr>
+</table>

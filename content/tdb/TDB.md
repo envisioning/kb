@@ -1,6 +1,7 @@
 /*
 Title: What is TDB?
 Description: 
+Sort: 0
 */
 
 Welcome to the first closed beta run for TDB. We have selected a few of you to help testing and giving feedback on our new platform.

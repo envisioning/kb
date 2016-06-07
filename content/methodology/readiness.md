@@ -1,3 +1,10 @@
+/*
+Category: Methodology
+Title: Readiness
+Description: Readiness is a model for estimating the state of emerging technologies.
+Version: v2015.2
+*/
+
 ![](%image_url%/readiness01.jpeg)
 
 Readiness is a model for estimating the state of emerging technologies. It measures how close an idea is to reality. Most technologies evolve along certain vectors over time, like acquiring usefulness and receiving investment. By determining common vectors of evolution, technologies can be compared. Readiness models an imaginary line between science fiction and science fact.

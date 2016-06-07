@@ -56,7 +56,7 @@
           </div>
         {{/config.support_email}}
         <div class="last-updated pull-right">
-          {{lang.global.lastUpdated}} {{last_modified}}
+        {{#meta.version}}{{meta.version}} – {{/meta.version}}{{lang.global.lastUpdated}} {{last_modified}}
         </div>
       </div>
 

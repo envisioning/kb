@@ -77,6 +77,16 @@ Description: Getting started with TDB
             <li> Only **Published** technologies are exported to Godzilla / Projects.</li>
         </ul>
     </tr>
+    <tr>
+        <th>Status</th>
+        <td>Technologies have three status regarding the entry state.</td>
+        <td>
+        <ul>
+            <li>**Any user** can create a new technology.</li>
+            <li>Only **Editors** and **Admins** can change a technology' status from **Draft** to **Under Review** or **Published**.</li>
+            <li> Only **Published** technologies are exported to Godzilla / Projects.</li>
+        </ul>
+    </tr>
 </table>
 
 

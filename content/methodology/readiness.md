@@ -47,19 +47,77 @@ Ten vectors are measured. Technologies are  scored on growth along each vector. 
 
 ![](%image_url%/readiness03.png)
 
-1. **Feasibility**: Is the technology scientifically viable?
-2. **Demonstrability**: Has it been demonstrated to work?
-3. **Breakthrough**: Is it measurably better than preceding technologies?
-4. **Investment**: How far along the investment cycle is it?
-5. **Cost**: How are development costs behaving?
-6. **Explainability**: Do people understand it?
-7. **Usefulness**: Do people use it?
-8. **Necessity**: Do people need it?
-9. **Competition**: Do people compete to develop it?
-10. **Challenge**: Has it proven to address humanity's grand challenges?
+Ten vectors are measured.
+Technologies are  scored on growth along each vector.
+Point Scores are attributed on a human-readable scale.
+
+| Can it be done? | Is it important? |
+| -- | -- |
+| **Feasibility:** *Is the technology scientifically viable?* | **Explainability:** *Do people understand it?* |
+| **Demonstrability:** *Has it been demonstrated to work?* | **Usefulness:** *Do people use it?* |
+| **Breakthrough**: *Is it measurably better than preceding technologies?* | **Necessity:** *Do people need it?* |
+| **Investment**: *How far along the investment cycle is it?* | **Competition:** *Do people compete to develop it?* |
+| **Cost**: *How are development costs behaving?* | **Challenge:** *Has it proven to address humanity's grand challenges?* |
 
 ## Mathematical Model
 
 ![](%image_url%/readiness04.png)
 
 Point Scores are combined into a Final Score. Final Score is calculated as the harmonic mean of Point Scores. Harmonic mean is the preferable method for averaging ranges. Final Score indicates overall readiness in thresholds.
+
+## Expert profiles
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Definition</th>
+            <th>Examples</th>
+            <th>Reviewer Quantity</th>
+            <th>Vectors</th>
+            <th>Weight</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Futurists</strong></td>
+            <td>Researchers that have been studying a broad range of technologies and trends.</td>
+            <td>Envisioning Network</td>
+            <td>3</td>
+            <td>Q1 – Q0 (All)</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td><strong>Technical</strong></td>
+            <td>Researchers or developers with academic background associated with the area that is building the technology.</td>
+            <td>AI Researcher, Blockchain Engineer, Civil Engineer.</td>
+            <td>2</td>
+            <td>Q1, Q2 & Q9</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td><strong>Industry</strong></td>
+            <td>Academics and entrepreneurs that study and work with the area most likely affected by the technology studied.</td>
+            <td>Economist, Innovation Director, Bank Manager, Mayor's Office.</td>
+            <td>2</td>
+            <td>Q3 & Q7</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td><strong>Market</strong></td>
+            <td>Investors or entrepreneurs that work with financial investment related to the technology.</td>
+            <td>Angel Investor, Portfolio Managers, Startup Hubs.</td>
+            <td>2</td>
+            <td>Q4, Q5 & Q9</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td><strong>Public</strong></td>
+            <td>Journalist, artists and writers who have broader view about the technology and share their view with the general public.</td>
+            <td>Journalists, Artists, Sci-Fi Authors</td>
+            <td>2</td>
+            <td>Q6, Q8 & Q0</td>
+            <td>2</td>
+        </tr>
+    </tbody>
+</table>

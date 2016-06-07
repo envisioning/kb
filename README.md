@@ -29,6 +29,11 @@ Sort: 1
 
 Folders can be sorted with a `sort` file and an integer as content.
 
+### Images
+
+You should save images inside `/themes/default/public/images` and link them with the relative path in markdown: `![](%image_url%/readiness02.jpg)`.
+
+
 ## Templating 
 
 Theme is inside `/themes/default`. Basic files are `layout.html` & `page.html`

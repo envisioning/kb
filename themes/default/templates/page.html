@@ -44,7 +44,7 @@
         </div>
       {{/config.allow_editing}}
     {{/loggedIn}}
-
+      {{#meta.category}}<div class="subtitle">{{meta.category}}</div>{{/meta.category}}
       {{#meta.title}}<h1 class="title">{{meta.title}}</h1>{{/meta.title}}
 
       {{{content}}}

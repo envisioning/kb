@@ -222,6 +222,13 @@ strong {
   font-weight: 700;
 }
 
+.subtitle {
+  display: inline-block;
+  float: left;
+  margin-bottom: -30px;
+  margin-top: 20px;
+  text-transform: uppercase;
+}
 
 hr {
   margin-top: 50px;

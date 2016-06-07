@@ -6,18 +6,17 @@ Description: Getting started with TDB
 
 
 <table>
-<thead>
-<td width="40%"><img src="%image_url%/Screen-Shot-2016-05-20-at-4.59.05-PM.jpg" class="img-responsive"></td>
-<td>
-<strong>Table of Contents</strong>
-<ol>
-<li>[Taxonomy](#taxonomy)</li>
-<li>[Creating and Editing](#creating-and-editing)</li>
-</ol>
-</td>
-</thead>
+    <thead>
+        <td width="30%"><img src="%image_url%/tdb_tech01.png" class="img-responsive"></td>
+        <td>
+            <strong>Table of Contents</strong>
+            <ol>
+                <li>[Taxonomy](#taxonomy)</li>
+                <li>[Creating and Editing](#creating-and-editing)</li>
+            </ol>
+        </td>
+    </thead>
 </table>
-
 
 
 
@@ -25,15 +24,16 @@ Description: Getting started with TDB
 
 
 <table>
-<thead>
-<th width="15%">Name</th>
-<th width="25%">Description</th>
-<th>Observations</th>
-</thead>
-<tr>
-<th>Title</th>
-<td>Name of the technology.</td>
-<td> <ol>
+    <thead>
+        <th width="15%">Name</th>
+        <th width="25%">Description</th>
+        <th>Observations</th>
+    </thead>
+    <tr>
+        <th>Title</th>
+        <td>Name of the technology.</td>
+        <td>
+            <ol>
                 <li>Summarize technology in one to five words </li>
                 <li>Good titles explain what sets the technology apart</li>
                 <li>Use "Title Case".</li>
@@ -47,43 +47,43 @@ Description: Getting started with TDB
                     <li>Technical ("Wi-Fi") </li>
                     <li>Popular ("Wireless Networking")</li>
                 </ol>
-            </ol></td>
-            </td>
-            <tr>
-            <th>Alternative Title</th>
-            <td>Synonyms for the same technology</td>
-            <td>These are not visible on the technology cards, but are used as search terms. This field is useful when we have a technology with different synonyms. We want to enforce using a correct nomenclature on the `Title` and additional names here.</td>
-            </tr>
-            <tr>
-            <th>Images</th>
-            <td>Images that describe a technology in the card</td>
-            <td><ol>
-            <li>1. Use images that are descriptive and noteworthy</li>
-<li>Use high-res images </li>
-<li>Show action or engagement where possible</li>
-<li>Photographs > Illustrations</li>
-<li>Concept renderings are OK</li>
-</ol>
-</td>
-            </table>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <th>Alternative Title</th>
+        <td>Synonyms for the same technology</td>
+        <td>These are not visible on the technology cards, but are used as search terms. This field is useful when we have a technology with different synonyms. We want to enforce using a correct nomenclature on the `Title` and additional names here.</td>
+    </tr>
+    <tr>
+        <th>Images</th>
+        <td>Images that describe a technology in the card</td>
+        <td>
+        <ul>
+            <li>Use images that are descriptive and noteworthy</li>
+            <li>Use high-res images </li>
+            <li>Show action or engagement where possible</li>
+            <li>Photographs > Illustrations</li>
+            <li>Concept renderings are OK</li>
+        </ul>
+    </tr>
+    <tr>
+        <th>Status</th>
+        <td>Technologies have three status regarding the entry state.</td>
+        <td>
+        <ul>
+            <li>**Any user** can create a new technology.</li>
+            <li>Only **Editors** and **Admins** can change a technology' status from **Draft** to **Under Review** or **Published**.</li>
+            <li> Only **Published** technologies are exported to Godzilla / Projects.</li>
+        </ul>
+    </tr>
+</table>
 
-
-
-
-
-## Status
-
-Technologies have three status regarding the entry state. Technologies can be **Drafts**, **Under Review** & **Published**.
-
-* **Any user** can create a new technology.
-* Only **Editors** and **Admins** can change a technology' status from **Draft** to **Under Review** or **Published**.
-* Only **Published** technologies are exported to Godzilla / Projects.
-*
 
 ## Creating and Editing
 
 
-<img src="%image_url%/Screen Shot 2016-05-20 at 4.15.03 PM.png" align="left" height="400" width="400" >
+<img src="%image_url%/Screen Shot 2016-05-20 at 4.15.03 PM.png">
 
 
 We follow some rules and style guide for creating and editing technologies.

@@ -1,16 +1,24 @@
 /*
-Title: Modules - Technologies
-Description: 
+Category: TDB - Modules
+Title: Technologies
+Description: Getting started with TDB
 */
 
 
-1. [Taxonomy](#taxonomy)
-2. [Creating and Editing](#creating-and-editing)
+<table>
+<thead>
+<td width="40%"><img src="%image_url%/Screen-Shot-2016-05-20-at-4.59.05-PM.jpg" class="img-responsive"></td>
+<td>
+<strong>Table of Contents</strong>
+<ol>
+<li>[Taxonomy](#taxonomy)</li>
+<li>[Creating and Editing](#creating-and-editing)</li>
+</ol>
+</td>
+</thead>
+</table>
 
-![Dashboard](%image_url%/Screen-Shot-2016-05-20-at-4.59.05-PM.jpg)
 
-
----
 
 
 ## Taxonomy

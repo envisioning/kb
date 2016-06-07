@@ -1,6 +1,7 @@
 /*
-Title: Getting started
-Description: Getting Started with TDB
+Category: TDB
+Title: Getting Started
+Description: Getting started with TDB
 */
 
 As this is a closed beta with a restrict number of participants, we expect to have a high level of discussion about TDB. We are specially interested in feedbacks & ideas about:
